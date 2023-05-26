@@ -53,5 +53,9 @@ Los estudiantes deben presentar un informe en formato Markdown que incluya una d
   ![image](https://github.com/JohanelSteve/Multiplicador_Secuencial/assets/104220377/797fdf7c-c53c-4be8-a7e5-055fb9389ca5)
 
   
+  # Diseño (Progreso del proyecto) #
   
   
+  Podemos observar la etapa de entrada mediante 4 FF en cascadas 
+![image](https://github.com/JohanelSteve/Multiplicador_Secuencial/assets/104220377/c7a451ac-bf43-4168-a3a7-2adbbf0c45f6)
+
