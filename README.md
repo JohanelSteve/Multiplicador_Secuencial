@@ -59,3 +59,36 @@ Los estudiantes deben presentar un informe en formato Markdown que incluya una d
   Podemos observar la etapa de entrada mediante 4 FF en cascadas 
 ![image](https://github.com/JohanelSteve/Multiplicador_Secuencial/assets/104220377/c7a451ac-bf43-4168-a3a7-2adbbf0c45f6)
 
+
+
+
+# Maquina microprogramada #
+
+
+![image](https://github.com/JohanelSteve/Multiplicador_Secuencial/assets/104220377/04e5e51e-32c9-4fb0-b107-5b5f898455ff)
+
+
+![image](https://github.com/JohanelSteve/Multiplicador_Secuencial/assets/104220377/94fe9324-028e-4ebd-ac97-24509e18bebe)
+
+
+# Tabla de estados de control # 
+![image](https://github.com/JohanelSteve/Multiplicador_Secuencial/assets/104220377/a4541863-4bf6-43f7-831e-afdf2d854c41)
+
+![image](https://github.com/JohanelSteve/Multiplicador_Secuencial/assets/104220377/8546eda2-c06f-447d-99ed-1776d544f642)
+
+# Testbench # 
+Para comprobar el funcionamiento nos basamos en probar principalmente el multiplicador, puesto la entrada del sistema fue reciclada de proyectos anteriores y ya se realizaron su verificación. 
+![image](https://github.com/JohanelSteve/Multiplicador_Secuencial/assets/104220377/ee29fbde-3cb3-4dd2-a554-f219ca8062df)
+
+
+# Diagrama del multiplicador #
+![image](https://github.com/JohanelSteve/Multiplicador_Secuencial/assets/104220377/d97c611e-b905-41e8-bdd7-b3f8bde29577)
+
+# Referencias: #
+
+Patterson, D. A., & Hennessy, J. L. (2004). Computer organization and design: The hardware/software interface. Morgan Kaufmann.
+
+
+
+
+
