@@ -1,6 +1,6 @@
 # Proyecto_3_Multiplicador_Secuencial
 
-Se trabajara en este reposito el proyecto del curso de Diseño Logico 2023. En el proyecto se busca desarrollar habilidades en diseño de hardward
+Se trabajara en este reposito el proyecto del curso de Diseño Logico 2023. En el proyecto se busca desarrollar habilidades en diseño de hardware.
 
 
 <h4>Equipo de trabajo:</h4>
